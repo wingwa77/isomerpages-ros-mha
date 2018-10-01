@@ -21,13 +21,13 @@ button:
     url: /who-we-are/
 
 key-highlights:
-  - title: Highlight A
+  - title: Login with SingPass
     description: Important highlight A is important
-    url: https://google.com
+    url: "https://saml.singpass.gov.sg/spauth/login/eservloginpage?URL=%2FFIM%2Fsps%2FSingpassIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26NameIdFormat%3DEmail%26PartnerId%3Dhttps%3A%2F%2Fwww.ros.mha.gov.sg%2FMHA-IROSES2-SINGPASS%26Target%3Dhttps%3A%2F%2Fwww.ros.mha.gov.sg%2Fcc%26esrvcID%3DMHA-IROSES2-SINGPASS&TAM_OP=login"
     external: true
-  - title: Highlight B
+  - title: Login with CorpPass
     description: Important highlight B is equally important
-    url: https://yahoo.com
+    url: "https://saml.corppass.gov.sg/cpauth/login/eservlogin?URL=%2FFIM%2Fsps%2FCorpIDPFed%2Fsaml20%2Flogininitial%3FRequestBinding%3DHTTPArtifact%26ResponseBinding%3DHTTPArtifact%26NameIdFormat%3DEmail%26PartnerId%3Dhttps%3A%2F%2Fwww.ros.mha.gov.sg%2FMHA-IROSES2-CP%26Target%3Dhttps%3A%2F%2Fwww.ros.mha.gov.sg%2Fcc%26esrvcID%3DMHA-IROSES2-CP&TAM_OP=login"
     external: true
   - title: Page A
     description: Page A is important too
